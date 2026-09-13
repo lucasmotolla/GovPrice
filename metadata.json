@@ -1,0 +1,8 @@
+{
+  "name": "GovPrice - Assistente de Pesquisa de Preços (DLC)",
+  "description": "Sistema de auxílio à pesquisa de preços conforme Lei 14.133/2021. Integração direta com SEI Procempa, GMAT e análise estatística automática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
